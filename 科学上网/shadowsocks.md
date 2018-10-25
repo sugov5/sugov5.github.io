@@ -116,6 +116,10 @@ ssserver -c /etc/shadowsocks.json -d start
 
 ## OpenVZ下开启BBR加速
 
+* 开启VPS的TUN/TAP选项
+
+> ![TUN/TAP](TUN&TAP.png)
+
 * 安装 LKL 一键包命令
 
 > wget --no-check-certificate https://github.com/91yun/uml/raw/master/lkl/install.sh && bash install.sh
