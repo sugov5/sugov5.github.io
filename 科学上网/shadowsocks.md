@@ -143,12 +143,13 @@ ssserver -c /etc/shadowsocks.json -d start
     "workers": 1    
 }
 ```
-___注意：需要确认VPS的 TUN/TAP 选项是否已开启___
+_注意：需要确认VPS的 TUN/TAP 选项是否已开启_
+
 ---   
 
 参考：
 
-['官网'](http://shadowsocks.org)
+传说中的 ['官网'](http://shadowsocks.org)
 
 [搭建Shadowsocks服务器.md](https://github.com/jaywcjlove/handbook/blob/master/CentOS/%E6%90%AD%E5%BB%BAShadowsocks%E6%9C%8D%E5%8A%A1%E5%99%A8.md)
 
