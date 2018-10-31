@@ -41,7 +41,7 @@ FUCK GFW!
 
 ### 方案二：配置本地 Hosts 文件（推荐）
 
-访问 https://www.ipaddress.com，找到页面中下方的 “IP Address Tools - Quick Links”，分别输入github.global.ssl.fastly.net和github.com，查询ip地址。
+访问 [https://www.ipaddress.com](https://www.ipaddress.com)，找到页面中下方的 “IP Address Tools - Quick Links”，分别输入github.global.ssl.fastly.net和github.com，查询ip地址。
 
 在系统Hosts文件内增加github两个相关域名的解析：
 
